@@ -3,7 +3,7 @@ import pyfiglet
 import time
 
 # URL del servidor
-url = 'http://localhost:8000'
+url = 'http://ec2-34-207-117-75.compute-1.amazonaws.com:8000'
 
 def query_service(file_route):
     # Lee el contenido del archivo
