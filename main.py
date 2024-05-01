@@ -13,7 +13,7 @@ def start():
     print(pyfiglet.figlet_format("GungnIAr"))
     print(" Welcome to antimalware detector \n")
     print(" 1. PE scanner")
-    print(" 3. Exit\n")
+    print(" 2. Exit\n")
 
     select = int(input("Enter your choice : "))
 
